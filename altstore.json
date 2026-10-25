@@ -1,0 +1,42 @@
+{
+  "name": "Flimmer",
+  "identifier": "io.github.mhd6271.flimmer.source",
+  "subtitle": "Werbefreier YouTube-Client mit SponsorBlock und DeArrow",
+  "description": "Werbefreier YouTube-Client: SponsorBlock, DeArrow, Originaltitel, Abos ohne Google-Konto, Wiedergabe im Hintergrund und Chromecast. Alles bleibt auf dem Gerät.",
+  "iconURL": "https://raw.githubusercontent.com/mhd6271/flimmer-releases/main/altstore-icon.png",
+  "website": "https://muehlbronner.de/projekte/flimmer/",
+  "tintColor": "#7C5CFF",
+  "featuredApps": [
+    "io.github.mhd6271.flimmer"
+  ],
+  "apps": [
+    {
+      "name": "Flimmer",
+      "bundleIdentifier": "io.github.mhd6271.flimmer",
+      "developerName": "Max Mühlbronner",
+      "subtitle": "Werbefreier YouTube-Client mit SponsorBlock und DeArrow",
+      "localizedDescription": "Werbefreier YouTube-Client: SponsorBlock, DeArrow, Originaltitel, Abos ohne Google-Konto, Wiedergabe im Hintergrund und Chromecast. Alles bleibt auf dem Gerät.",
+      "iconURL": "https://raw.githubusercontent.com/mhd6271/flimmer-releases/main/altstore-icon.png",
+      "tintColor": "#7C5CFF",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "0.5.30",
+          "buildVersion": "0.5.30",
+          "date": "2026-10-25T11:50:48Z",
+          "localizedDescription": "Flimmer 0.5.30 – iPhone und iPad (Test), eigener Algorithmus, viele Korrekturen\n\n- Neu: Flimmer für iPhone und iPad als Test, ohne App Store. Die Datei Flimmer-0.5.30-ios.ipa signierst du beim Installieren mit deiner eigenen Apple-ID – über AltStore oder SideStore (Quelle hinzufügen: https://raw.githubusercontent.com/mhd6271/flimmer-releases/main/altstore.json, Updates kommen dann von selbst) oder mit Sideloadly. Mit einer kostenlosen Apple-ID gilt die Signatur 7 Tage. Bisher im Simulator getestet (iPhone und iPad), noch nicht auf einem echten Gerät.\n- Neu (Test, Standard aus): eigener Algorithmus. Interessen mit Stichwörtern, Startseite „Für dich“ mit Begründung, Flimmer lernt auf dem Gerät aus Schauen, Speichern, Abbrechen und Ausblenden. Auf Wunsch mit KI-Erkennung auf dem Gerät (lädt einmalig ein Sprachmodell von Hugging Face, ca. 120 MB). Einstellungen → Eigener Algorithmus.\n- Fernseher: Im Vollbild verschwinden Leiste und Mauszeiger nach 3 Sekunden ohne Bewegung. Die Fernbedienung kommt jetzt durch ausgegraute Einstellungen und nach geschlossenen Rückfragen weiter, hoch/runter scrollt statt in die Kopfzeile zu springen, Zurück führt zur zuletzt geöffneten Karte.\n- Suche: Weitere Ergebnisse beim Scrollen laden wieder.\n- Untertitel auf dem Ausweichweg SABR werden wieder angezeigt.\n- Kleinere Korrekturen: kein „N/A“ mehr bei fehlenden Texten, „1 Antwort“ statt „1 Antworten“, Links mit Zeitmarke springen im laufenden Video, Live-Chat schließen ohne leere Fläche, Menü auf dem iPhone reagiert auf den ersten Tipp, Kommentarzahl und Kommentar-Kopfzeile auf schmalen Bildschirmen, DeArrow-Titel antippen zeigt den Originaltitel.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.30/Flimmer-0.5.30-ios.ipa",
+          "size": 8097196,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Flimmer sucht Fernseher im WLAN, um Videos dort abzuspielen."
+        }
+      }
+    }
+  ],
+  "news": []
+}
