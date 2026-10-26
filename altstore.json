@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.31",
+          "buildVersion": "0.5.31",
+          "date": "2026-10-26T13:35:22Z",
+          "localizedDescription": "Flimmer 0.5.31 – Zurück und Weiter im Sperrbildschirm, viele Korrekturen für Fernseher und Handy\n\n- Sperrbildschirm und Benachrichtigung (Android): Zurück, Pause/Abspielen, Weiter und eine Zeitleiste zum Springen. Zurück führt in einer Playlist zum vorigen Video, sonst zum Video davor; Weiter springt sofort. Auch die Medientasten auf iPhone, iPad und am Computer.\n- Die Zurück-Taste am Fernseher und am Handy beendete nach dem automatischen Weiterspielen die App – behoben.\n- Fernseher: Die Fernbedienung erreicht jetzt auch „Für Fortgeschrittene“ und kommt durch zugeklappte Beschreibungen. Im Vollbild verschwindet der Mauszeiger zusammen mit der Leiste. Bei Pause steht der Play-Knopf im Video. Nach dem Wechsel auf „Kanäle“ in der Suche springt die Auswahl nicht mehr auf „Abonnieren“.\n- Shorts und Breitbild-Videos: Qualität heißt wie bei YouTube (1080p statt 1920p oder 820p), Shorts laufen am Fernseher in voller Auflösung, und der Kanal-Reiter „Shorts“ zeigt endlich Shorts.\n- Weniger Anfragen an YouTube: Die Seite eines ausgeblendeten Kanals und leere Listen laden nicht mehr endlos nach.\n- Eigener Algorithmus: „Hip Hop“ und „Lo-Fi“ zählen als ein Wort, Füllwörter wie „music“ oder „vom“ lernt er nicht mehr.\n- Weitere Korrekturen: Medientasten im Handy-Vollbild, Spulen beim Streamen über den Ausweichweg, Länge bei „Läuft auf …“, Tonspuren alphabetisch mit dem Original zuerst, Playlists am Handy, ausgegraute Knöpfe, Update-Hinweis passt in den Kasten.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.31/Flimmer-0.5.31-ios.ipa",
+          "size": 8097958,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.30",
           "buildVersion": "0.5.30",
           "date": "2026-10-25T11:50:48Z",
