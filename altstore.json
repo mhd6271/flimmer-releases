@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.34",
+          "buildVersion": "0.5.34",
+          "date": "2026-10-27T14:35:23Z",
+          "localizedDescription": "Flimmer 0.5.34 – Google Play in allen Ländern\n\n- Google Play: Flimmer gibt es im Test jetzt in allen Ländern, nicht nur in Deutschland, Österreich und der Schweiz.\n- Sonst wie 0.5.33: Den Mini-Player erreichst du am Fernseher mit dem Steuerkreuz, schnelle Pfeiltasten gehen nicht mehr verloren, neue Sprüche auf der Startseite.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.34/Flimmer-0.5.34-ios.ipa",
+          "size": 8112842,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.33",
           "buildVersion": "0.5.33",
           "date": "2026-10-27T09:36:46Z",
