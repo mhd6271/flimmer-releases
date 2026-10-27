@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.33",
+          "buildVersion": "0.5.33",
+          "date": "2026-10-27T09:36:46Z",
+          "localizedDescription": "Flimmer 0.5.33 – Fernseher: Mini-Player mit der Fernbedienung, schnelle Tasten, neue Sprüche\n\n- Google TV: Den Mini-Player erreichst du jetzt mit dem Steuerkreuz – ganz rechts im Inhalt noch einmal rechts, oder runter, wenn er direkt unter der Auswahl liegt. Noch einmal runter geht dahinter weiter. Die Auswahl verschwindet nicht mehr halb hinter ihm.\n- Google TV: Schnell gedrückte oder gehaltene Pfeiltasten gehen nicht mehr verloren, und die Auswahl pendelt nicht mehr auf der Stelle (z. B. in den Einstellungen).\n- Google TV: Nach dem Schließen des Mini-Players bleibt eine Auswahl stehen, auf Kanalseiten ist die erste Karte ganz im Bild, und „Später ansehen“/✕ auf den Karten (mit der Fernbedienung nicht erreichbar) sind dort ausgeblendet.\n- Startseite: neue Sprüche – jiddische Sprichwörter, Sprüche der Väter und Berliner Schnauze (196 statt 177).",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.33/Flimmer-0.5.33-ios.ipa",
+          "size": 8112822,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.32",
           "buildVersion": "0.5.32",
           "date": "2026-10-26T19:24:41Z",
