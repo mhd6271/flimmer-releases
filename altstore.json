@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.36",
+          "buildVersion": "0.5.36",
+          "date": "2026-11-01T11:06:56Z",
+          "localizedDescription": "Flimmer 0.5.36 – Sicherheitsupdate\n\n- Sicherheitsupdate für die Update-Funktion. Die Bibliothek zum Entpacken der Update-Pakete (zip) ist auf dem neuen Stand; die alte hatte drei bekannte Lücken, die nur beim Installieren eines Updates unter Windows eine Rolle spielten. Sonst keine Änderungen gegenüber 0.5.35.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.36/Flimmer-0.5.36-ios.ipa",
+          "size": 8113175,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.35",
           "buildVersion": "0.5.35",
           "date": "2026-10-31T12:17:17Z",
