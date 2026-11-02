@@ -6,6 +6,9 @@ Abos ohne Google-Konto und Mini-Player – für macOS, Windows, Linux, Android, 
 ➡️ **[Neueste Version herunterladen](https://github.com/mhd6271/flimmer-releases/releases/latest)** ·
 Anleitung und Installation Schritt für Schritt: <https://muehlbronner.de/projekte/flimmer/>
 
+Die Pakete der neuesten Version liegen auch hier im Repo, im Ordner **[`downloads/`](downloads/)** – ältere Versionen
+stehen nur unter [Releases](https://github.com/mhd6271/flimmer-releases/releases).
+
 | System | Datei |
 |---|---|
 | macOS (Apple-Chip) | `Flimmer-…-macOS-arm64.zip` – entpacken, in „Programme“ ziehen; beim ersten Start Systemeinstellungen → Datenschutz & Sicherheit → „Dennoch öffnen“ (bis macOS 14: Rechtsklick → Öffnen). Oder `brew install --cask mhd6271/flimmer/flimmer` |
