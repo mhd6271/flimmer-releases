@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.38",
+          "buildVersion": "0.5.38",
+          "date": "2026-11-02T21:08:16Z",
+          "localizedDescription": "Flimmer 0.5.38\n\n- Neu (Test, ab Werk aus): Mit dem Handy steuern. Unter Einstellungen → „Mit dem Handy steuern“ zeigt Flimmer einen TV-Code; den gibst du in der YouTube-App am Handy unter „Mit TV-Code verknüpfen“ ein. Danach taucht Flimmer beim Streamen-Symbol der YouTube-App auf, und ein Video vom Handy läuft in Flimmer – ohne Werbung, mit SponsorBlock und an derselben Stelle wie am Handy. Einschränkung: Die YouTube-App trennt sich zurzeit kurz nach dem Start wieder (am Handy verschwindet das Video, das nächste läuft wieder am Handy) – Flimmer dann einfach erneut auswählen.\n- Die Anmeldung mit YouTube-Konto aus 0.5.37 ist vorübergehend ausgeblendet und kommt später wieder.\n- Ein ausdrücklicher Startpunkt in einem Video-Link (auch 0:00) gilt jetzt vor der gemerkten Stelle.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.38/Flimmer-0.5.38-ios.ipa",
+          "size": 8153911,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.37",
           "buildVersion": "0.5.37",
           "date": "2026-11-02T17:35:55Z",
