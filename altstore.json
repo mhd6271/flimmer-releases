@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.37",
+          "buildVersion": "0.5.37",
+          "date": "2026-11-02T17:35:55Z",
+          "localizedDescription": "Flimmer 0.5.37\n\n- Android und Google TV: Solange ein Video läuft, bleibt der Bildschirm an – kein Bildschirmschoner mehr mitten im Video oder beim Musikhören, auch im Mini-Player. Bei Pause gilt wieder die Einstellung des Geräts.\n- Sperrt YouTube deinen Anschluss („Melde dich an, damit wir sehen, dass du kein Bot bist“), sagt Flimmer das jetzt klar und nennt, wie lange es meist dauert, statt nur „Dieses Video lässt sich nicht abspielen“.\n- Neu und freiwillig (ab Werk aus): Anmeldung mit einem YouTube-Konto per Gerätecode wie bei der Fernseh-App – mit QR-Code zum Scannen. Angemeldet versucht Flimmer bei einer Sperre zusätzlich den Weg der Fernseh-App. Ob das eine Sperre umgeht, ist noch nicht geprüft. YouTube kann Konten sperren, die mit fremden Apps genutzt werden – am besten ein Zweitkonto nehmen. Die Zugangsdaten liegen nur im sicheren Speicher des Geräts, Abmelden löscht sie.\n- Mehr Sicherheit: Der Medienserver fürs Streamen nimmt Videostücke nur noch von der App selbst an, Weiterleitungen beim Abspielen gehen nur zu erlaubten Adressen, und Android installiert Updates nur von der offiziellen Release-Seite.\n- Kleinere Korrekturen: Abo-Import mit fehlerhaften Namen, Kommentare laden bei leeren Antworten nicht endlos nach, Untertitel beim schnellen Wechseln, Live-Chat-Ansicht.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.37/Flimmer-0.5.37-ios.ipa",
+          "size": 8152391,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.36",
           "buildVersion": "0.5.36",
           "date": "2026-11-01T11:06:56Z",
