@@ -1,17 +1,17 @@
 {
-  "name": "Flimmer",
+  "name": "MM Alternative Videoplayer",
   "identifier": "io.github.mhd6271.flimmer.source",
   "subtitle": "Werbefreier YouTube-Client mit SponsorBlock und DeArrow",
   "description": "Werbefreier YouTube-Client: SponsorBlock, DeArrow, Originaltitel, Abos ohne Google-Konto. Alles bleibt auf dem Gerät. Testfassung für iPhone und iPad – noch nicht auf einem echten Gerät geprüft.",
   "iconURL": "https://raw.githubusercontent.com/mhd6271/flimmer-releases/main/altstore-icon.png",
-  "website": "https://muehlbronner.de/projekte/flimmer/",
+  "website": "https://github.com/mhd6271/flimmer-releases",
   "tintColor": "#7C5CFF",
   "featuredApps": [
     "io.github.mhd6271.flimmer"
   ],
   "apps": [
     {
-      "name": "Flimmer",
+      "name": "MM Alternative Videoplayer",
       "bundleIdentifier": "io.github.mhd6271.flimmer",
       "developerName": "Max Mühlbronner",
       "subtitle": "Werbefreier YouTube-Client mit SponsorBlock und DeArrow",
@@ -105,7 +105,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "Flimmer sucht Fernseher im WLAN, um Videos dort abzuspielen."
+          "NSLocalNetworkUsageDescription": "MM Alternative Videoplayer sucht Fernseher im WLAN, um Videos dort abzuspielen."
         }
       }
     }
