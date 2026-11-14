@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.39",
+          "buildVersion": "0.5.39",
+          "date": "2026-11-14T00:59:31Z",
+          "localizedDescription": "MM Alternative Videoplayer 0.5.39 – neuer Name, Android ohne Aussetzer, aufgeräumte Einstellungen\n\n- Neuer Name: Flimmer heißt jetzt „MM Alternative Videoplayer“. Einstellungen, Abos, Playlists und Verlauf bleiben erhalten; Updates kommen wie bisher von hier.\n- Android: Kein kurzer Aussetzer mehr beim Wechsel ins kleine Bild-in-Bild-Fenster und beim Sperren des Bildschirms (Hintergrund-Wiedergabe). Wer das kleine Fenster aufs ✕ zieht, beendet jetzt auch die Wiedergabe – vorher lief der Ton unsichtbar weiter.\n- Qualität wechseln ohne Unterbrechung: Die neue Stufe greift nach ein paar Sekunden, Bild und Ton laufen dabei durch (auch am Fernseher beim Wechsel zwischen Vollbild und eingebettetem Video).\n- Einstellungen übersichtlicher: sechs aufklappbare Bereiche, Interessen als Kacheln. Die Anmeldung mit einem YouTube-Konto (freiwillig, ab Werk aus) ist wieder da.\n- Datenschutz: Der Verlauf verfällt 30 Tage nach dem letzten Ansehen; „Verlauf löschen“ löscht auch das Gelernte. Der Link zur Datenschutzerklärung zeigt auf die neue Adresse.\n- KI-Erkennung: „KI-Modell vom Gerät löschen“ zeigt die gespeicherte Größe und meldet, ob das Löschen geklappt hat – auch bei ausgeschaltetem Algorithmus.\n- Viele kleinere Korrekturen: lange YouTube-Playlists spielen über die erste Seite hinaus weiter, Kanalseiten laden schneller, Suche nach Wörtern mit elf Buchstaben öffnet kein Video mehr, Fernbedienung und Kopplung mit dem Handy zuverlässiger.\n- Android: Updates nur noch mit eigenen Paketen aus diesem Repo.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.39/Flimmer-0.5.39-ios.ipa",
+          "size": 8154757,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.38",
           "buildVersion": "0.5.38",
           "date": "2026-11-02T21:08:16Z",
