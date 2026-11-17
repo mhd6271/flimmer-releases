@@ -23,10 +23,10 @@
         {
           "version": "0.5.41",
           "buildVersion": "0.5.41",
-          "date": "2026-11-17T17:34:16Z",
+          "date": "2026-11-17T17:47:01Z",
           "localizedDescription": "MM Alternative Videoplayer 0.5.41 – neuer Name auf Windows und Mac, strengere Sicherheitsregeln\n\n- Mehr Sicherheit auf allen Geräten: Die App führt nur noch ihre eigenen Skripte aus, und fremde Webseiten öffnen sich im Browser statt im App-Fenster.\n- Windows: Startmenü, Desktop-Verknüpfung und App-Liste zeigen jetzt „MM Alternative Videoplayer“. Das Update ersetzt die alte Installation „Flimmer“, Abos, Einstellungen und Verlauf bleiben erhalten. Wer die App an die Taskleiste angeheftet hatte, heftet sie danach neu an.\n- Mac: Finder, Dock und Launchpad zeigen den neuen Namen.\n- Android: Schließt du das kleine Bild-in-Bild-Fenster, endet die Wiedergabe jetzt auch bei angehaltenem Video.",
           "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.41/Flimmer-0.5.41-ios.ipa",
-          "size": 8158636,
+          "size": 8158536,
           "minOSVersion": "15.0"
         },
         {
