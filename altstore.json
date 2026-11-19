@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.43",
+          "buildVersion": "0.5.43",
+          "date": "2026-11-19T21:29:29Z",
+          "localizedDescription": "MM Alternative Videoplayer 0.5.43 – auch auf Geräten ohne WLAN\n\n- Android: Die App setzt kein WLAN mehr voraus. Fernseher, Tablets und Computer am Netzwerkkabel können sie jetzt auch aus Google Play installieren; die Suche nach Chromecast-Geräten funktioniert weiter.\n- Sonst wie 0.5.42: Mit YouTube-Konto angemeldet holt die App deine Abos, „Später ansehen“ und Playlists vom Konto.",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.43/Flimmer-0.5.43-ios.ipa",
+          "size": 8161101,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.42",
           "buildVersion": "0.5.42",
           "date": "2026-11-18T18:17:56Z",
@@ -99,15 +108,6 @@
           "localizedDescription": "Flimmer 0.5.34 – Google Play in allen Ländern\n\n- Google Play: Flimmer gibt es im Test jetzt in allen Ländern, nicht nur in Deutschland, Österreich und der Schweiz.\n- Sonst wie 0.5.33: Den Mini-Player erreichst du am Fernseher mit dem Steuerkreuz, schnelle Pfeiltasten gehen nicht mehr verloren, neue Sprüche auf der Startseite.",
           "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.34/Flimmer-0.5.34-ios.ipa",
           "size": 8112842,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.5.33",
-          "buildVersion": "0.5.33",
-          "date": "2026-10-27T09:36:46Z",
-          "localizedDescription": "Flimmer 0.5.33 – Fernseher: Mini-Player mit der Fernbedienung, schnelle Tasten, neue Sprüche\n\n- Google TV: Den Mini-Player erreichst du jetzt mit dem Steuerkreuz – ganz rechts im Inhalt noch einmal rechts, oder runter, wenn er direkt unter der Auswahl liegt. Noch einmal runter geht dahinter weiter. Die Auswahl verschwindet nicht mehr halb hinter ihm.\n- Google TV: Schnell gedrückte oder gehaltene Pfeiltasten gehen nicht mehr verloren, und die Auswahl pendelt nicht mehr auf der Stelle (z. B. in den Einstellungen).\n- Google TV: Nach dem Schließen des Mini-Players bleibt eine Auswahl stehen, auf Kanalseiten ist die erste Karte ganz im Bild, und „Später ansehen“/✕ auf den Karten (mit der Fernbedienung nicht erreichbar) sind dort ausgeblendet.\n- Startseite: neue Sprüche – jiddische Sprichwörter, Sprüche der Väter und Berliner Schnauze (196 statt 177).",
-          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.33/Flimmer-0.5.33-ios.ipa",
-          "size": 8112822,
           "minOSVersion": "15.0"
         }
       ],
