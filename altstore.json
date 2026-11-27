@@ -21,6 +21,15 @@
       "category": "entertainment",
       "versions": [
         {
+          "version": "0.5.45",
+          "buildVersion": "0.5.45",
+          "date": "2026-11-27T00:21:33Z",
+          "localizedDescription": "MM Alternative Videoplayer 0.5.45 – jetzt auch auf Englisch\n\n- Englische Oberfläche: Die App richtet sich nach der Systemsprache (Deutsch bei deutscher Systemsprache, sonst Englisch). In den Einstellungen ganz oben unter „Sprache · Language“ lässt sich „Automatisch“, „Deutsch“ oder „English“ wählen; ab Android 13 ist das dieselbe Einstellung wie „App-Sprache“ in den Android-Einstellungen. Auch die Wiedergabe-Benachrichtigung ist zweisprachig.\n- YouTube-Texte (Aufrufe, Datum, Abonnenten) kommen in der Sprache der Oberfläche; die Region bleibt Deutschland. Bei einer Neuinstallation richten sich Untertitel- und Synchronsprache nach der Systemsprache, bestehende Einstellungen bleiben.\n- Englische Sprüche auf der Startseite: eigene Sammlung, keine Übersetzungen.\n- Seitenleiste: „Über die App“ statt des am Fernseher abgeschnittenen vollen Namens.\n- Mehr Links: Das Suchfeld erkennt auch Invidious- und Piped-Adressen, YouTube-Music-Kanäle und geteilte Texte mit Titel und Link.\n- Android: Videos lassen sich aus anderen Apps an die App teilen; YouTube-Links können direkt in der App öffnen (dafür in den Android-Einstellungen „Standardmäßig öffnen“ einschalten).",
+          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.45/Flimmer-0.5.45-ios.ipa",
+          "size": 8178856,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.44",
           "buildVersion": "0.5.44",
           "date": "2026-11-20T03:32:55Z",
@@ -99,15 +108,6 @@
           "localizedDescription": "Flimmer 0.5.36 – Sicherheitsupdate\n\n- Sicherheitsupdate für die Update-Funktion. Die Bibliothek zum Entpacken der Update-Pakete (zip) ist auf dem neuen Stand; die alte hatte drei bekannte Lücken, die nur beim Installieren eines Updates unter Windows eine Rolle spielten. Sonst keine Änderungen gegenüber 0.5.35.",
           "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.36/Flimmer-0.5.36-ios.ipa",
           "size": 8113175,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.5.35",
-          "buildVersion": "0.5.35",
-          "date": "2026-10-31T12:17:17Z",
-          "localizedDescription": "Flimmer 0.5.35 – YouTube geht wieder\n\n- Suche, Abos und Videos laden wieder: Seit Ende Oktober wies YouTube die Anfragen von Flimmer auf Fernseher und Handy ab („error sending request for url …“). Flimmer schickt dabei jetzt keine Browser-Kennung mehr mit.\n- Ist YouTube gar nicht erreichbar, zeigt Flimmer oben einen roten Hinweis „Problem mit der YouTube-Schnittstelle“ (ohne Internet: „Keine Verbindung“) statt der unverständlichen Fehlermeldung.",
-          "downloadURL": "https://github.com/mhd6271/flimmer-releases/releases/download/v0.5.35/Flimmer-0.5.35-ios.ipa",
-          "size": 8113307,
           "minOSVersion": "15.0"
         }
       ],
